@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.nav-wrapper {
+    height: 42px;
+    background-color: #fff;
+    border-bottom: 1px solid #DBDBDB;
+}
+body {
+    background-color: #FAFAFA;
+    
+}
+.nav-logo {
+
+    margin: 10px 7px 7px 7px;
+}
+
+.nav-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
