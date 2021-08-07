@@ -21,7 +21,17 @@ body {
 }
 
 .nav-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     max-width: 800px;
     margin: 0 auto;
     
+}
+.nav-icon {
+    margin-left: 8px;
+
+
+    width: 27px;
+
 }
